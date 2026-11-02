@@ -49,11 +49,11 @@ if %score_s% gtr %score_a% if %score_s% gtr %score_n% (
 ### 3. Скриншоты работы системы
 ### 3.1. Главное меню системы
 https://github.com/alinakharitonova2009-bit/lab2-comprehensive--/blob/main/photo_menu.png
-3.2. Работа модуля 1 (Выбор редактора)
+### 3.2. Работа модуля 1 (Выбор редактора)
 https://github.com/alinakharitonova2009-bit/lab2-comprehensive--/blob/main/photo_chapter1.png
-3.3. Работа модуля 2 (Инспекция кода)
+### 3.3. Работа модуля 2 (Инспекция кода)
 https://github.com/alinakharitonova2009-bit/lab2-comprehensive--/blob/main/photo_chapter2.png
-3.4. Работа модуля 3 (Сравнительный анализ)
+### 3.4. Работа модуля 3 (Сравнительный анализ)
 https://github.com/alinakharitonova2009-bit/lab2-comprehensive--/blob/main/photo_chapter3.png
 3.5. Результат работы системы (Пункт 4)
 https://github.com/alinakharitonova2009-bit/lab2-comprehensive--/blob/main/photo_lab_system.png
